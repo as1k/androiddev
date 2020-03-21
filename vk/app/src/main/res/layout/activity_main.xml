@@ -4,9 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_marginBottom="4dp"
-    android:background="@color/vkwhite"
-    android:paddingBottom="4dp">
+    android:background="@color/vkwhite">
 
     <androidx.core.widget.NestedScrollView
         android:id="@+id/NestedScrollView"
@@ -106,7 +104,6 @@
                             android:id="@+id/circleImageView"
                             android:layout_width="80dp"
                             android:layout_height="80dp"
-                            android:background="@drawable/circle_border"
                             android:src="@drawable/ava3"
                             app:layout_constraintStart_toStartOf="parent"
                             app:layout_constraintTop_toTopOf="parent" />

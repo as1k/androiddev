@@ -4,9 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_marginBottom="4dp"
-    android:background="@color/vkwhite"
-    android:paddingBottom="4dp">
+    android:background="@color/vkwhite">
 
     <ImageView
         android:id="@+id/imageView"
@@ -47,7 +45,7 @@
         android:id="@+id/vText"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="16dp"
+        android:layout_marginEnd="12dp"
         android:fontFamily="serif-monospace"
 
         android:maxLines="7"
@@ -59,6 +57,7 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="@+id/imageView"
         app:layout_constraintTop_toBottomOf="@+id/date"
+        app:layout_constraintVertical_bias="0.192"
         tools:text="самое холодное место на земле, наверное, наши сердца. где сто лет одиночества — за один день, под утомленный, безнадежно влюбленный рассвет. где всякие глаза, лишенные света, окрасились в траур, глядят на серый мир с тоской. мудрецо" />
 
     <TextView
@@ -174,7 +173,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/showmore"
+        app:layout_constraintTop_toBottomOf="@+id/showmore"
         app:srcCompat="@drawable/picture6"
         tools:srcCompat="@drawable/picture6" />
 
