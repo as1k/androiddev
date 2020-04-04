@@ -1,93 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e833cfe-bbea-4d70-a649-5aee893bf4f9" name="Default Changelist" comment="social network pt.2 added">
-      <change afterPath="$PROJECT_DIR$/instagram/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/androidTest/java/com/example/instagram/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/java/com/example/instagram/DetailsActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/java/com/example/instagram/LockableViewPager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/java/com/example/instagram/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/java/com/example/instagram/MainAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/java/com/example/instagram/News.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/java/com/example/instagram/NewsList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/java/com/example/instagram/SavesList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/java/com/example/instagram/SavesListAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/java/com/example/instagram/SlidePagerAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/comment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/ic_favorite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/ic_home.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/ic_save.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/like.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/liked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/more.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/post1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/post10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/post11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/post12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/post13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/post14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/post15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/post16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/post17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/post18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/post19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/post2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/post20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/post3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/post4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/post5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/post6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/post7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/post8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/post9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/profile1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/profile2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/save.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/saved.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/selector.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/drawable/send.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/layout/activity_news_detail.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/layout/item_news.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/layout/page.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/menu/menu_button.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/app/src/test/java/com/example/instagram/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instagram/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3e833cfe-bbea-4d70-a649-5aee893bf4f9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +35,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,7 +52,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584784289942</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="social network pt.2 added">
+      <created>1585575834595</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585575834595</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -200,7 +121,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="3" side_tool="true" visible="true" weight="0.3267974" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.3267974" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
