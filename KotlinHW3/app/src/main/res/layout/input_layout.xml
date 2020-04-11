@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/black"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/tvCurrentOperation"
+        android:inputType="numberDecimal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="80sp"
+        android:gravity="end"
+        android:textColor="@color/gray"
+        android:background="@color/white"
+        android:padding="10dp"
+        android:fontFamily="@font/g_light"
+        android:text=""/>
+    <TextView
+        android:id="@+id/tvInput"
+        android:maxLength="9"
+        android:inputType="numberDecimal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="60sp"
+        android:gravity="end"
+        android:textColor="@color/darkestgray"
+        android:background="@color/white"
+        android:padding="10dp"
+        android:fontFamily="@font/g_light"
+        android:text="0" />
+
+</LinearLayout>
