@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e833cfe-bbea-4d70-a649-5aee893bf4f9" name="Default Changelist" comment="" />
+    <list default="true" id="3e833cfe-bbea-4d70-a649-5aee893bf4f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/androidTest/java/com/example/kotlinhw2/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/java/com/example/kotlinhw2/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/font/g_light.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/font/sans_bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/font/sans_bold_italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/font/sans_italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/font/sans_regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/layout/buttons.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/layout/input_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/app/src/test/java/com/example/kotlinhw2/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinHW2/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,9 +61,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,34 +77,10 @@
     <option name="width" value="683" />
     <option name="height" value="728" />
   </component>
+  <component name="ProjectId" id="1aPZgbRPfz6v7gQLCXFY5tY0gfv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="AndroidStudioProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AndroidStudioProjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AndroidStudioProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AndroidStudioProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="vk" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
-    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -104,28 +128,26 @@
       <option name="project" value="LOCAL" />
       <updated>1585575834595</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="instagram is completed">
+      <created>1586017761504</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586017761504</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <layout>
-      <window_info id="Captures" order="0" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.3296131" />
-      <window_info id="Structure" order="2" side_tool="true" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="Resources Explorer" order="5" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="TODO" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.3267974" />
-      <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Palette&#9;" order="2" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -136,56 +158,8 @@
     <MESSAGE value="committing 1st attestation labs" />
     <MESSAGE value="debugging completed" />
     <MESSAGE value="social network pt.2 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="social network pt.2 added" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/codeStyles/Project.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1139">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/AndroidStudioProjects.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1255" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vk/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vk/.idea/runConfigurations.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vk/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vk/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vk/.idea/codeStyles/Project.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1496" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vk/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vk/.idea/gradle.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <MESSAGE value="instagram is completed" />
+    <MESSAGE value="hw2 in kotlin is added" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw2 in kotlin is added" />
   </component>
 </project>
