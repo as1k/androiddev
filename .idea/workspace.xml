@@ -1,55 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e833cfe-bbea-4d70-a649-5aee893bf4f9" name="Default Changelist" comment="hw3 in kotlin is added">
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/src/androidTest/java/com/example/kotlinhw4/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/src/main/java/com/example/kotlinhw4/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/app/src/test/java/com/example/kotlinhw4/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinHW4/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KotlinHW3/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/KotlinHW3/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KotlinHW3/app/src/main/res/layout-land/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/KotlinHW3/app/src/main/res/layout-land/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KotlinHW3/app/src/main/res/layout-land/buttons.xml" beforeDir="false" afterPath="$PROJECT_DIR$/KotlinHW3/app/src/main/res/layout-land/buttons.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KotlinHW3/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/KotlinHW3/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vk/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vk/.idea/gradle.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3e833cfe-bbea-4d70-a649-5aee893bf4f9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586685694149</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="hw3 in kotlin is added">
+      <created>1586686226121</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1586686226121</updated>
+    </task>
+    <task id="LOCAL-00010" summary="hw4 in kotlin is added">
+      <created>1586708155993</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1586708155994</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,8 +203,9 @@
     <MESSAGE value="debugging completed" />
     <MESSAGE value="social network pt.2 added" />
     <MESSAGE value="instagram is completed" />
-    <MESSAGE value="hw3 in kotlin is added" />
     <MESSAGE value="hw2 in kotlin is added" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw2 in kotlin is added" />
+    <MESSAGE value="hw3 in kotlin is added" />
+    <MESSAGE value="hw4 in kotlin is added" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw4 in kotlin is added" />
   </component>
 </project>
