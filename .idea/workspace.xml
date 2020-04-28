@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e833cfe-bbea-4d70-a649-5aee893bf4f9" name="Default Changelist" comment="" />
+    <list default="true" id="3e833cfe-bbea-4d70-a649-5aee893bf4f9" name="Default Changelist" comment="hw4 in kotlin is added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="4852be87-a909-49f9-be92-a66b17a78b58" name="hw4 in kotlin is added" comment="">
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vk/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vk/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vk/app/src/main/java/com/example/vk/News.java" beforeDir="false" afterPath="$PROJECT_DIR$/vk/app/src/main/java/com/example/vk/News.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +55,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3e833cfe-bbea-4d70-a649-5aee893bf4f9" name="Default Changelist" comment="" />
+      <changelist id="4852be87-a909-49f9-be92-a66b17a78b58" name="hw4 in kotlin is added" comment="" />
       <created>1583562762148</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -121,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586708155994</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="hw4 in kotlin is added">
+      <created>1586708346547</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1586708346547</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
