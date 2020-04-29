@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e833cfe-bbea-4d70-a649-5aee893bf4f9" name="Default Changelist" comment="hw4 in kotlin is added">
+    <list default="true" id="3e833cfe-bbea-4d70-a649-5aee893bf4f9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <list id="4852be87-a909-49f9-be92-a66b17a78b58" name="hw4 in kotlin is added" comment="">
-      <change beforePath="$PROJECT_DIR$/calculator/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vk/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vk/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vk/app/src/main/java/com/example/vk/News.java" beforeDir="false" afterPath="$PROJECT_DIR$/vk/app/src/main/java/com/example/vk/News.java" afterDir="false" />
-    </list>
+    <list id="4852be87-a909-49f9-be92-a66b17a78b58" name="hw4 in kotlin is added" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586708346547</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="hw5 mvvm reformat">
+      <created>1588146242679</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1588146242679</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,6 +226,7 @@
     <MESSAGE value="hw2 in kotlin is added" />
     <MESSAGE value="hw3 in kotlin is added" />
     <MESSAGE value="hw4 in kotlin is added" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw4 in kotlin is added" />
+    <MESSAGE value="hw5 mvvm reformat" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw5 mvvm reformat" />
   </component>
 </project>
